@@ -18876,125 +18876,22 @@ endobj
 /Title (OpenFuruta \0502026\051 \174 Bench results and simulation)
 >>
 endobj
-27 0 obj
-<<
-/F1 28 0 R
-/F1-0 29 0 R
-/F1-0-0 30 0 R
-/F1-0-0-0 31 0 R
-/F1-0-0-0-0 32 0 R
-/F1-0-0-0-0-0 33 0 R
-/F1-0-0-0-0-0-0 34 0 R
-/F1-0-0-0-0-0-0-0 35 0 R
-/F1-0-0-0-0-0-0-0-0 36 0 R
-/F1-0-0-0-0-0-0-0-0-0 37 0 R
-/F1-1 610 0 R
-/F1-2 610 0 R
-/F1-3 631 0 R
-/F1-4 640 0 R
-/F1-5 640 0 R
-/F2+0 38 0 R
-/F2+0-0 42 0 R
-/F2+0-0-0 46 0 R
-/F2+0-0-0-0 50 0 R
-/F2+0-0-0-0-0 54 0 R
-/F2+0-0-0-0-0-0 58 0 R
-/F2+0-0-0-0-0-0-0 62 0 R
-/F2+0-0-0-0-0-0-0-0 66 0 R
-/F2+0-0-0-0-0-0-0-0-0 70 0 R
-/F2+0-0-0-0-0-0-0-0-0-0 74 0 R
-/F2+0-1 611 0 R
-/F2+0-2 611 0 R
-/F2+0-3 632 0 R
-/F2+0-4 641 0 R
-/F2+0-5 641 0 R
-/F3+0 78 0 R
-/F3+0-0 82 0 R
-/F3+0-0-0 86 0 R
-/F3+0-0-0-0 90 0 R
-/F3+0-0-0-0-0 94 0 R
-/F3+0-0-0-0-0-0 98 0 R
-/F3+0-0-0-0-0-0-0 102 0 R
-/F3+0-0-0-0-0-0-0-0 106 0 R
-/F3+0-0-0-0-0-0-0-0-0 110 0 R
-/F3+0-0-0-0-0-0-0-0-0-0 114 0 R
-/F3+0-1 615 0 R
-/F3+0-2 615 0 R
-/F3+0-3 645 0 R
-/F3+0-4 645 0 R
-/F4+0 118 0 R
-/F4+0-0 122 0 R
-/F4+0-0-0 126 0 R
-/F4+0-0-0-0 130 0 R
-/F4+0-0-0-0-0 134 0 R
-/F4+0-0-0-0-0-0 138 0 R
-/F4+0-0-0-0-0-0-0 142 0 R
-/F4+0-0-0-0-0-0-0-0 146 0 R
-/F4+0-0-0-0-0-0-0-0-0 150 0 R
-/F4+0-0-0-0-0-0-0-0-0-0 154 0 R
-/F4+0-1 619 0 R
-/F4+0-2 619 0 R
-/F4+0-3 649 0 R
-/F4+0-4 649 0 R
-/F5+0 158 0 R
-/F5+0-0 162 0 R
-/F5+0-0-0 166 0 R
-/F5+0-0-0-0 170 0 R
-/F5+0-0-0-0-0 174 0 R
-/F5+0-0-0-0-0-0 178 0 R
-/F5+0-0-0-0-0-0-0 182 0 R
-/F5+0-0-0-0-0-0-0-0 186 0 R
-/F5+0-0-0-0-0-0-0-0-0 190 0 R
-/F5+0-0-0-0-0-0-0-0-0-0 194 0 R
-/F5+0-1 623 0 R
-/F5+0-2 623 0 R
-/F5+0-3 653 0 R
-/F5+0-4 653 0 R
-/F6+0 198 0 R
-/F6+0-0 202 0 R
-/F6+0-0-0 206 0 R
-/F6+0-0-0-0 210 0 R
-/F6+0-0-0-0-0 214 0 R
-/F6+0-0-0-0-0-0 218 0 R
-/F6+0-0-0-0-0-0-0 222 0 R
-/F6+0-0-0-0-0-0-0-0 226 0 R
-/F6+0-0-0-0-0-0-0-0-0 230 0 R
-/F6+0-0-0-0-0-0-0-0-0-0 234 0 R
-/F7+0 238 0 R
-/F7+0-0 242 0 R
-/F7+0-0-0 246 0 R
-/F7+0-0-0-0 250 0 R
-/F7+0-0-0-0-0 254 0 R
-/F7+0-0-0-0-0-0 258 0 R
-/F7+0-0-0-0-0-0-0 262 0 R
-/F7+0-0-0-0-0-0-0-0 266 0 R
-/F7+0-0-0-0-0-0-0-0-0 270 0 R
-/F7+0-0-0-0-0-0-0-0-0-0 274 0 R
-/F8+0 278 0 R
-/F8+0-0 282 0 R
-/F8+0-0-0 286 0 R
-/F8+0-0-0-0 290 0 R
-/F8+0-0-0-0-0 294 0 R
-/F8+0-0-0-0-0-0 298 0 R
-/F8+0-0-0-0-0-0-0 302 0 R
-/F8+0-0-0-0-0-0-0-0 306 0 R
-/F8+0-0-0-0-0-0-0-0-0 310 0 R
-/F8+0-0-0-0-0-0-0-0-0-0 314 0 R
->>
-endobj
 587 0 obj
 <<
 /MediaBox [ 0 0 1440 810 ]
 /Parent 22 0 R
 /Resources <<
-/Font 27 0 R
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
 /XObject <<
-/FormXob.0997e891b8ff1fd1a773de5d630d2134 589 0 R
-/FormXob.235de23f34c0b9931dde26f36b5f67c8 590 0 R
-/FormXob.4f97ce5627cc295bf4bcad468ebf7ffd 609 0 R
-/FormXob.4f97ce5627cc295bf4bcad468ebf7ffd-0 639 0 R
+/FormXob.4f97ce5627cc295bf4bcad468ebf7ffd 639 0 R
 >>
+/Font <<
+/F1 640 0 R
+/F2+0 641 0 R
+/F3+0 645 0 R
+/F4+0 649 0 R
+/F5+0 653 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
 >>
 /Rotate 0
 /Trans <<
@@ -19009,11 +18906,14 @@ endobj
 /MediaBox [ 0 0 1440 810 ]
 /Parent 22 0 R
 /Resources <<
-/Font 27 0 R
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
-/XObject <<
-/FormXob.c27b9b605495fefce849ea9ca8989b84 593 0 R
+/Font <<
+/F1 640 0 R
+/F2+0 641 0 R
+/F3+0 645 0 R
+/F4+0 649 0 R
+/F5+0 653 0 R
 >>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
 >>
 /Rotate 0
 /Trans <<
@@ -19557,7 +19457,7 @@ endobj
 endobj
 661 0 obj
 <<
-/Length 4290
+/Length 4236
 >>
 stream
 q
@@ -19566,13 +19466,13 @@ W
 n
 1 0 0 1 0 0 cm
 BT
-/F1-4 12 Tf
+/F1 12 Tf
 14.4 TL
 ET
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 20 780 Tm
-/F2+0-4 15 Tf
+/F2+0 15 Tf
 18 TL
 (12) Tj
 T*
@@ -19580,7 +19480,7 @@ ET
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 1077.919 782 Tm
-/F3+0-3 13 Tf
+/F3+0 13 Tf
 15.6 TL
 (ROBOTICS \001 CONTROLS  \057  HARDWARE AND CONTROL) Tj
 T*
@@ -19589,7 +19489,7 @@ BT
 1 0 0 1 81 694 Tm
 2.8 Tc
 0.094118 0.098039 0.101961 rg
-/F4+0-3 46 Tf
+/F4+0 46 Tf
 55.2 TL
 (OpenFuruta \0502026\051) Tj
 0 Tc
@@ -19597,7 +19497,7 @@ ET
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 81 652 Tm
-/F5+0-3 23 Tf
+/F5+0 23 Tf
 27.6 TL
 (An open\055source rotary inverted pendulum for studying how controllers transfer from simulation to hardware\056) Tj
 T*
@@ -19605,7 +19505,7 @@ ET
 0.094118 0.098039 0.101961 rg
 BT
 1 0 0 1 81 604 Tm
-/F3+0-3 16 Tf
+/F3+0 16 Tf
 19.2 TL
 (Physical rig) Tj
 T*
@@ -19613,14 +19513,14 @@ ET
 0.094118 0.098039 0.101961 rg
 BT
 1 0 0 1 426 604 Tm
-/F3+0-3 16 Tf
+/F3+0 16 Tf
 19.2 TL
 (MuJoCo model) Tj
 T*
 ET
 q
 690 0 0 388.125 81 202.875 cm
-/FormXob.4f97ce5627cc295bf4bcad468ebf7ffd-0 Do
+/FormXob.4f97ce5627cc295bf4bcad468ebf7ffd Do
 Q
 q
 1 0 0 1 81 153 cm
@@ -19628,7 +19528,7 @@ q
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 0 23.5 Tm
-/F2+0-4 14.5 Tf
+/F2+0 14.5 Tf
 19 TL
 (Frame from the split\055screen demo\056 The physical rig is on the left and the CAD\055derived MuJoCo model is) Tj
 T*
@@ -19640,7 +19540,7 @@ Q
 0.094118 0.098039 0.101961 rg
 BT
 1 0 0 1 815 602 Tm
-/F4+0-3 18 Tf
+/F4+0 18 Tf
 21.6 TL
 (Mechanical and electrical design) Tj
 T*
@@ -19651,7 +19551,7 @@ q
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 0 52.5 Tm
-/F2+0-4 16.5 Tf
+/F2+0 16.5 Tf
 23 TL
 (A NEMA 17 stepper rotates the printed arm\056 The pendulum pivots freely) Tj
 T*
@@ -19671,7 +19571,7 @@ S
 0.094118 0.098039 0.101961 rg
 BT
 1 0 0 1 815 472 Tm
-/F4+0-3 18 Tf
+/F4+0 18 Tf
 21.6 TL
 (Measuring the arm directly) Tj
 T*
@@ -19682,7 +19582,7 @@ q
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 0 75.5 Tm
-/F2+0-4 16.5 Tf
+/F2+0 16.5 Tf
 23 TL
 (Early fast sweeps exposed a return offset even when the step counter) Tj
 T*
@@ -19704,7 +19604,7 @@ S
 0.094118 0.098039 0.101961 rg
 BT
 1 0 0 1 815 333 Tm
-/F4+0-3 18 Tf
+/F4+0 18 Tf
 21.6 TL
 (Controller sequence) Tj
 T*
@@ -19716,7 +19616,7 @@ f*
 0.094118 0.098039 0.101961 rg
 BT
 1 0 0 1 827 298 Tm
-/F4+0-3 15 Tf
+/F4+0 15 Tf
 18 TL
 (Swing\055up) Tj
 T*
@@ -19724,7 +19624,7 @@ ET
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 932 299 Tm
-/F2+0-4 14 Tf
+/F2+0 14 Tf
 16.8 TL
 (Build pendulum energy through arm motion\056) Tj
 T*
@@ -19736,7 +19636,7 @@ f*
 0.094118 0.098039 0.101961 rg
 BT
 1 0 0 1 827 253 Tm
-/F4+0-3 15 Tf
+/F4+0 15 Tf
 18 TL
 (Capture) Tj
 T*
@@ -19744,7 +19644,7 @@ ET
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 932 254 Tm
-/F2+0-4 14 Tf
+/F2+0 14 Tf
 16.8 TL
 (Brake the arm and check both axes before switching\056) Tj
 T*
@@ -19756,7 +19656,7 @@ f*
 0.094118 0.098039 0.101961 rg
 BT
 1 0 0 1 827 208 Tm
-/F4+0-3 15 Tf
+/F4+0 15 Tf
 18 TL
 (Balance) Tj
 T*
@@ -19764,7 +19664,7 @@ ET
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 932 209 Tm
-/F2+0-4 14 Tf
+/F2+0 14 Tf
 16.8 TL
 (Apply state feedback near upright\054 then return to center\056) Tj
 T*
@@ -19772,7 +19672,7 @@ ET
 0.14902 0.368627 0.439216 rg
 BT
 1 0 0 1 656 153 Tm
-/F3+0-3 15 Tf
+/F3+0 15 Tf
 18 TL
 (Watch full demo) Tj
 T*
@@ -19783,7 +19683,7 @@ q
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 0 21.5 Tm
-/F2+0-4 14.5 Tf
+/F2+0 14.5 Tf
 18 TL
 (Compared PID\054 LQR\054 LQG and PPO near upright\056 All fell short at 20 ms of sensor) Tj
 T*
@@ -19801,7 +19701,7 @@ S
 0.094118 0.098039 0.101961 rg
 BT
 1 0 0 1 81 110 Tm
-/F4+0-3 17 Tf
+/F4+0 17 Tf
 20.4 TL
 (Open\055source release  v0\0561\0560) Tj
 T*
@@ -19812,7 +19712,7 @@ q
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 0 26 Tm
-/F2+0-4 16 Tf
+/F2+0 16 Tf
 21 TL
 (Published the editable STEP\054 printable STLs\054 parts list\054 wiring schematic and build guide\056 The release also includes ESP32 firmware\054 a MuJoCo model\054 an RL baseline and raw) Tj
 T*
@@ -19824,7 +19724,7 @@ Q
 0.14902 0.368627 0.439216 rg
 BT
 1 0 0 1 81 27 Tm
-/F3+0-3 15 Tf
+/F3+0 15 Tf
 18 TL
 (GitHub repository) Tj
 T*
@@ -19832,7 +19732,7 @@ ET
 0.14902 0.368627 0.439216 rg
 BT
 1 0 0 1 240 27 Tm
-/F3+0-3 15 Tf
+/F3+0 15 Tf
 18 TL
 (Build guide) Tj
 T*
@@ -19840,7 +19740,7 @@ ET
 0.14902 0.368627 0.439216 rg
 BT
 1 0 0 1 338 27 Tm
-/F3+0-3 15 Tf
+/F3+0 15 Tf
 18 TL
 (Release files) Tj
 T*
@@ -19868,7 +19768,7 @@ endobj
 endobj
 664 0 obj
 <<
-/Length 34565
+/Length 34485
 >>
 stream
 q
@@ -19877,13 +19777,13 @@ W
 n
 1 0 0 1 0 0 cm
 BT
-/F1-5 12 Tf
+/F1 12 Tf
 14.4 TL
 ET
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 20 780 Tm
-/F2+0-5 15 Tf
+/F2+0 15 Tf
 18 TL
 (13) Tj
 T*
@@ -19891,7 +19791,7 @@ ET
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 1033.927 782 Tm
-/F3+0-4 13 Tf
+/F3+0 13 Tf
 15.6 TL
 (ROBOTICS \001 CONTROLS  \057  BENCH RESULTS AND SIMULATION) Tj
 T*
@@ -19900,7 +19800,7 @@ BT
 1 0 0 1 81 694 Tm
 2.8 Tc
 0.094118 0.098039 0.101961 rg
-/F4+0-4 46 Tf
+/F4+0 46 Tf
 55.2 TL
 (OpenFuruta \0502026\051) Tj
 0 Tc
@@ -19908,7 +19808,7 @@ ET
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 81 652 Tm
-/F5+0-4 23 Tf
+/F5+0 23 Tf
 27.6 TL
 (Thirty seconds of balance on the rig\054 with capture still sensitive to the approach\056) Tj
 T*
@@ -19916,7 +19816,7 @@ ET
 0.094118 0.098039 0.101961 rg
 BT
 1 0 0 1 81 602 Tm
-/F4+0-4 17 Tf
+/F4+0 17 Tf
 20.4 TL
 (Pendulum error in a successful bench trial) Tj
 T*
@@ -19924,7 +19824,7 @@ ET
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 81 576 Tm
-/F2+0-5 15 Tf
+/F2+0 15 Tf
 18 TL
 (29\05698 s of sampled balance \001 1\05661\002 RMS error) Tj
 T*
@@ -19938,7 +19838,7 @@ S
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 108.1 337 Tm
-/F2+0-5 13 Tf
+/F2+0 13 Tf
 15.6 TL
 (\0558\002) Tj
 T*
@@ -19952,7 +19852,7 @@ S
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 108.1 387.25 Tm
-/F2+0-5 13 Tf
+/F2+0 13 Tf
 15.6 TL
 (\0554\002) Tj
 T*
@@ -19966,7 +19866,7 @@ S
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 112.26 437.5 Tm
-/F2+0-5 13 Tf
+/F2+0 13 Tf
 15.6 TL
 (0\002) Tj
 T*
@@ -19980,7 +19880,7 @@ S
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 112.26 487.75 Tm
-/F2+0-5 13 Tf
+/F2+0 13 Tf
 15.6 TL
 (4\002) Tj
 T*
@@ -19994,7 +19894,7 @@ S
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 112.26 538 Tm
-/F2+0-5 13 Tf
+/F2+0 13 Tf
 15.6 TL
 (8\002) Tj
 T*
@@ -20008,7 +19908,7 @@ S
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 132.23 321 Tm
-/F2+0-5 13 Tf
+/F2+0 13 Tf
 15.6 TL
 (0) Tj
 T*
@@ -20022,7 +19922,7 @@ S
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 229.23 321 Tm
-/F2+0-5 13 Tf
+/F2+0 13 Tf
 15.6 TL
 (5) Tj
 T*
@@ -20036,7 +19936,7 @@ S
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 322.46 321 Tm
-/F2+0-5 13 Tf
+/F2+0 13 Tf
 15.6 TL
 (10) Tj
 T*
@@ -20050,7 +19950,7 @@ S
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 419.46 321 Tm
-/F2+0-5 13 Tf
+/F2+0 13 Tf
 15.6 TL
 (15) Tj
 T*
@@ -20064,7 +19964,7 @@ S
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 516.46 321 Tm
-/F2+0-5 13 Tf
+/F2+0 13 Tf
 15.6 TL
 (20) Tj
 T*
@@ -20078,7 +19978,7 @@ S
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 613.46 321 Tm
-/F2+0-5 13 Tf
+/F2+0 13 Tf
 15.6 TL
 (25) Tj
 T*
@@ -20092,7 +19992,7 @@ S
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 710.46 321 Tm
-/F2+0-5 13 Tf
+/F2+0 13 Tf
 15.6 TL
 (30) Tj
 T*
@@ -20100,7 +20000,7 @@ ET
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 364.301 302 Tm
-/F2+0-5 13 Tf
+/F2+0 13 Tf
 15.6 TL
 (Time after capture \050s\051) Tj
 T*
@@ -21551,7 +21451,7 @@ q
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 0 4.5 Tm
-/F2+0-5 14.5 Tf
+/F2+0 14.5 Tf
 19 TL
 (The firmware logged completion of the 30 s hold and returned the arm to center\056) Tj
 T*
@@ -21561,7 +21461,7 @@ Q
 0.094118 0.098039 0.101961 rg
 BT
 1 0 0 1 780 602 Tm
-/F4+0-4 17 Tf
+/F4+0 17 Tf
 20.4 TL
 (Complete cycles by test batch) Tj
 T*
@@ -21573,7 +21473,7 @@ f*
 0.094118 0.098039 0.101961 rg
 BT
 1 0 0 1 793 553.5 Tm
-/F3+0-4 15.5 Tf
+/F3+0 15.5 Tf
 18.6 TL
 (Simulation \002 baseline v2) Tj
 T*
@@ -21581,7 +21481,7 @@ ET
 0.14902 0.368627 0.439216 rg
 BT
 1 0 0 1 1315.274 553 Tm
-/F4+0-4 18 Tf
+/F4+0 18 Tf
 21.6 TL
 (3\0575) Tj
 T*
@@ -21593,7 +21493,7 @@ f*
 0.094118 0.098039 0.101961 rg
 BT
 1 0 0 1 793 510.5 Tm
-/F3+0-4 15.5 Tf
+/F3+0 15.5 Tf
 18.6 TL
 (Simulation \002 predictive braking) Tj
 T*
@@ -21601,7 +21501,7 @@ ET
 0.14902 0.368627 0.439216 rg
 BT
 1 0 0 1 1315.274 510 Tm
-/F4+0-4 18 Tf
+/F4+0 18 Tf
 21.6 TL
 (5\0575) Tj
 T*
@@ -21613,7 +21513,7 @@ f*
 0.094118 0.098039 0.101961 rg
 BT
 1 0 0 1 793 467.5 Tm
-/F3+0-4 15.5 Tf
+/F3+0 15.5 Tf
 18.6 TL
 (Bench \002 v2\054 earlier batch) Tj
 T*
@@ -21621,7 +21521,7 @@ ET
 0.14902 0.368627 0.439216 rg
 BT
 1 0 0 1 1315.274 467 Tm
-/F4+0-4 18 Tf
+/F4+0 18 Tf
 21.6 TL
 (4\0575) Tj
 T*
@@ -21633,7 +21533,7 @@ f*
 0.094118 0.098039 0.101961 rg
 BT
 1 0 0 1 793 424.5 Tm
-/F3+0-4 15.5 Tf
+/F3+0 15.5 Tf
 18.6 TL
 (Bench \002 v2\054 later batch) Tj
 T*
@@ -21641,7 +21541,7 @@ ET
 0.14902 0.368627 0.439216 rg
 BT
 1 0 0 1 1315.274 424 Tm
-/F4+0-4 18 Tf
+/F4+0 18 Tf
 21.6 TL
 (2\0575) Tj
 T*
@@ -21653,7 +21553,7 @@ f*
 0.094118 0.098039 0.101961 rg
 BT
 1 0 0 1 793 381.5 Tm
-/F3+0-4 15.5 Tf
+/F3+0 15.5 Tf
 18.6 TL
 (Bench \002 predictive braking) Tj
 T*
@@ -21661,7 +21561,7 @@ ET
 0.14902 0.368627 0.439216 rg
 BT
 1 0 0 1 1315.274 381 Tm
-/F4+0-4 18 Tf
+/F4+0 18 Tf
 21.6 TL
 (0\0575) Tj
 T*
@@ -21672,7 +21572,7 @@ q
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 0 45.5 Tm
-/F2+0-5 14.5 Tf
+/F2+0 14.5 Tf
 20 TL
 (A complete cycle includes swing\055up\054 30 s of balance and return to center\056 The five) Tj
 T*
@@ -21692,7 +21592,7 @@ S
 0.094118 0.098039 0.101961 rg
 BT
 1 0 0 1 81 187 Tm
-/F4+0-4 17 Tf
+/F4+0 17 Tf
 20.4 TL
 (Why captures fail) Tj
 T*
@@ -21703,7 +21603,7 @@ q
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 0 50 Tm
-/F2+0-5 16 Tf
+/F2+0 16 Tf
 22 TL
 (Reaching vertical was insufficient\056 Missed captures) Tj
 T*
@@ -21717,7 +21617,7 @@ Q
 0.094118 0.098039 0.101961 rg
 BT
 1 0 0 1 512 187 Tm
-/F4+0-4 17 Tf
+/F4+0 17 Tf
 20.4 TL
 (What the model recovered) Tj
 T*
@@ -21728,7 +21628,7 @@ q
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 0 72 Tm
-/F2+0-5 16 Tf
+/F2+0 16 Tf
 22 TL
 (Fitted on four recorded captures\056 On 5 held\055out) Tj
 T*
@@ -21744,7 +21644,7 @@ Q
 0.094118 0.098039 0.101961 rg
 BT
 1 0 0 1 946 187 Tm
-/F4+0-4 17 Tf
+/F4+0 17 Tf
 20.4 TL
 (What still needs work) Tj
 T*
@@ -21755,7 +21655,7 @@ q
 0.313725 0.32549 0.337255 rg
 BT
 1 0 0 1 0 72 Tm
-/F2+0-5 16 Tf
+/F2+0 16 Tf
 22 TL
 (Predictive braking estimates time to vertical to slow the) Tj
 T*
@@ -21771,7 +21671,7 @@ Q
 0.14902 0.368627 0.439216 rg
 BT
 1 0 0 1 81 27 Tm
-/F3+0-4 15 Tf
+/F3+0 15 Tf
 18 TL
 (Validation and telemetry) Tj
 T*
@@ -21788,16 +21688,16 @@ endobj
 /Size 667
 /Root 1 0 R
 /Filter /FlateDecode
-/Index [ 14 2 27 1 587 1 591 1 628 3 637 29 ]
+/Index [ 14 2 587 1 591 1 628 3 637 29 ]
 /W [ 1 4 1 ]
 /Prev 18973216
 /ID [ <03ff175c01c9ab4364ac6e42fe331c61> <03ff175c01c9ab4364ac6e42fe331c61> ]
-/Length 144
+/Length 139
 >>
 stream
-xúŒ1a¿·{ï‹ß Ó\ìÈ¬›≠ lf_@.u∆ÎËÍtfÂ6•DåeíIâ˜˜_û˘Q™ç•}„"∆¯ÉIÅÀõ¯¬ï)V≈¶Ëi˝âx≈¡É¶sÃBÃ[∏©·ﬁ¡Cè?<=¥V©çe+O4œË|±À–Í]–›¢ó°·p*Ê8Jæ3˛˚+C
+xúcdTlNa`í_@dKàlc ëÌ“`“L∫É…X0Y&;Å§í˜ZÈ#"˝ÆÇHˇ= ≤s?àÏŸ"˚ÀA‰Ñ8y§DoëßÏ@‰i˘≥D˛)ëˇµÅ§2Éà¥±ëˆ∆ “AL>ëéW@§”!‹&Ç»êÈ Úv3 ë/'n
 endstream
 endobj
 startxref
-19129575
+19127200
 %%EOF
